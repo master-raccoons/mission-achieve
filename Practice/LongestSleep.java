@@ -3,7 +3,7 @@ import java.util.*;
 public class LongestSleep
 {
 public static void main(String args[]) {
-    System.out.println("Hello!!!");
+    
     String S = "Sun 01:10-23:00@Sat 01:00-23:40@" +
             "Wed 01:00-23:60@Thu 01:00-23:60@" +
             "Fri 01:00-23:60@"+
